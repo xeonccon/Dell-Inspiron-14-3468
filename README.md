@@ -1,5 +1,5 @@
 # Dell-Inspiron-14-3468
-### 戴尔Inspiron 灵越 14 3468 黑苹果OC EFI配置
+### 戴尔Inspiron 灵越 14 3468 OC EFI配置文件
 --- 
 #### 硬件信息：
 * 品牌：戴尔（Dell）
