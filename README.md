@@ -1,4 +1,4 @@
-# Hackintosh-Dell-Inspiron-14-3468
+# Dell-Inspiron-14-3468
 ### 戴尔Inspiron 灵越 14 3468 黑苹果EFI配置
 --- 
 #### 硬件信息：
